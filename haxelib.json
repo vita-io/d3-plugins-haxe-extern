@@ -1,0 +1,12 @@
+{
+  "name": "d3-plugins-extern",
+  "url" : "https://github.com/vita-io/d3-plugins-haxe-extern",
+  "license": "BSD-3-Clause",
+  "tags": ["js", "d3js", "d3", "d3-plugins"],
+  "description": "Basic extern for d3js plugins 3.5.6.",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "First releae",
+  "contributors": ["freakinruben"],
+  "dependencies": {"d3-extern": "3.5.6"}
+}
