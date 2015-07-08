@@ -6,7 +6,7 @@
   "description": "Basic extern for d3js plugins 3.5.6.",
   "version": "0.0.1",
   "classPath": "src/",
-  "releasenote": "First releae",
+  "releasenote": "First release",
   "contributors": ["freakinruben"],
   "dependencies": {"d3-extern": "3.5.6-alpha"}
 }
