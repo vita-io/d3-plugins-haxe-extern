@@ -8,5 +8,5 @@
   "classPath": "src/",
   "releasenote": "First releae",
   "contributors": ["freakinruben"],
-  "dependencies": {"d3-extern": "3.5.6"}
+  "dependencies": {"d3-extern": "3.5.6-alpha"}
 }
