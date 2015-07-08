@@ -1,0 +1,8 @@
+#!/bin/sh
+
+FILENAME=${PWD##*/}.zip
+
+zip -r --exclude=*.DS_Store* $FILENAME src/ haxelib.json &&
+haxelib install $FILENAME &&
+haxelib submit $FILENAME
+rm $FILENAME
